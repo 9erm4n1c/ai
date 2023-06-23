@@ -1,0 +1,42 @@
+- intelligence: capacity for learning, reasoning, and understanding
+- artificial intelligence: a branch of computer science dealing with the simulation of intelligent behavior in computers
+- rationality: doing the right thing for a given goal heirarchy
+- Turing test: a human interrogator posess some written questions to an AI and if the interrogator can not tell if the responses are from a human or AI then the AI passes the test.
+- nautral language processing: an interdisciplinary subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data
+- knowledge representation: is the field of artificial intelligence (AI) dedicated to representing information about the world in a form that a computer system can use to solve complex tasks such as diagnosing a medical condition or having a dialog in a natural language.
+- automated reasoning: field of computer science that allow computers to reason completely, or nearly completely, automatically
+- machine learning: is a field devoted to understanding and building methods that let machines "learn" – that is, methods that leverage data to improve computer performance on some set of tasks.
+- total Turing test: the Turing test, but with robotics
+- robotics: giving ability for computers to interact with the physical world
+- computer vision: giving ability for computers to see
+- introspection: trying to catch our own thoughts as they go by
+- psychological experiments: observing a person in action
+- brain imaging: observing the brain in action
+- cognitive science: the interdisciplinary, scientific study of the mind and its processes with input from linguistics, psychology, neuroscience, philosophy, computer science/artificial intelligence, and anthropology
+- syllogisms: a kind of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true
+- logic: the study of correct reasoning. It includes both formal and informal logic.
+- logicism: is a programme comprising one or more of the theses that — for some coherent meaning of 'logic' — mathematics is an extension of logic, some or all of mathematics is reducible to logic, or some or all of mathematics may be modelled in logic
+- probability theory: the branch of mathematics concerned with assinging a number that indicates how likely events are to occur
+- agent: something that acts (usually a digital something)
+- rational agent: an agent that acts to acheive the best outcome or best expected outcome
+- limited rationality: acting appropriately where there is not enough time to do all the computation one might like
+- value alignment problem: the problem of achieving agreement between our true preferences and the objectives we put into the machine
+- provably beneficial: the inane notion that mathemetical proof can be used to complex externalities of AI action
+- materialism: philosophical monism which holds matter to be the fundamental substance in nature, and all things, including mental states and conciousness, are the results of material interactions of material things.
+- physicalism: "everything is physical", like materialism, but encompasses energy, physical laws, space time, structure, physical processes, information, state, and forces (materialism of the gaps, lol)
+- naturalism: the idea or belief that only natural laws and forces operate the universe.
+- empiricism: epistemological view that holds that true knowledge or justification comes only or primarily from sensory experience
+- logical positivism: a theory of knowledge that asserts that only statements verifiable through direct observation or logical proof are meaningful in terms of conveying truth value, informationor factual content (AKA, nerdism. Religion is valuable information encoded as myth)
+- utilitarianism: prescribe actions that maximize happiness and well-being for all affected individuals
+- consequentialism: class of normative, teleological ethical theories that holds that the consequences of one's conduct are the ultimate basis for judgement about the rightness or wrongness of that conduct
+- deontological ethics: ethics that aren't determined by outcomes but by social laws that govern allowable ethics
+- formal logic: symbolic logic that replaces concrete expressions with abstract symbols to examine logical forms independent of their concrete content
+- statistics: the mathematical discipline that concerns the collection, organization, analysis, interpretation, and presentation of data.
+- algorithm: a procedure of computation
+- incompleteness theorem - in any formal theory as strong as Peano arithmetic, there are true statements that have no proof within the theory (see G.E.B.)
+- computable: a problem/solution that can be arrived at by algorithm
+- tractability: the ability to "effectively" compute a problem/solution, that is to compute it in a reasonable amount of time
+- NP-completeness: a basis for analyzing the tractability of problems. NP-complte problems are likely to be intractable
+- decision theory: branch of probability theory and analytic philosophy concerned with making decsisions based on assigning probabilities to various factors and assigning numerical consequences to the outcome
+- game theory: study of mathematical models of strategic interactions among rational agents.
+- satisficing: making decisions that are good enough
